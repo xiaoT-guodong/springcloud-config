@@ -1,1 +1,2 @@
-msg: "用于spring cloud config练习"
+config: 
+  msg: test2
