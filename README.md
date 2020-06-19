@@ -1,2 +1,2 @@
 # springcloud-config
-用于spring cloud的外部配置文件
+用于练习spring cloud的外部配置文件
